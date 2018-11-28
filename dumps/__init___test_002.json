@@ -1,0 +1,1 @@
+{"root": [{"name": "", "isON": true}, {"list": {"py/tuple": [{"py/object": "A.TestVector", "p2": {"py/object": "A.testPoint", "x": 3, "properties": [3, 3], "y": 3}, "p1": {"py/object": "A.testPoint", "x": 0, "properties": [0, 2], "y": 2}, "mLength": 1, "y": 1, "x": 0}, 2, 3]}, "dict": {}}, {"result": null}]}
