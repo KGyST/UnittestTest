@@ -71,7 +71,7 @@ class TesztJSON():
                     for j in inFromNode:
                         if self._removeNode(i, j):
                             inFromNode.remove(j)
-                            #FIXME not inFromNode sok helyen van
+                            # FIXME not inFromNode sok helyen van
                 if not inFromNode:
                     return True
             elif isinstance(inChildToBeRemoved, dict):
@@ -103,7 +103,7 @@ class TesztJSON():
             elif isinstance(inChildToBeRemoved, str):
                 return True
             else:
-                pass    #FIXME basic types
+                pass    # FIXME basic types
             return False
         else:
             return True

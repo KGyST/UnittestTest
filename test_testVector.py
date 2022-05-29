@@ -4,9 +4,6 @@ import jsonpickle
 from A import TestVector
 
 class TestTestVector(TestCase):
-    def setUp(self):
-        pass
-
     def test___init__(self):
         JSONDir = 'dumps'
         JSONFile = 'test'

@@ -1,80 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="92d8eb09-bdff-4caa-bc0c-2c28afb1d469" name="Default" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
+    <list default="true" id="92d8eb09-bdff-4caa-bc0c-2c28afb1d469" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/decTeszt.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DumpUnitTest.py" beforeDir="false" afterPath="$PROJECT_DIR$/DumpUnitTest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_testVector.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_testVector.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_tesztJSON.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_tesztJSON.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="DumpUnitTest.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DumpUnitTest.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="145" column="28" lean-forward="false" selection-start-line="145" selection-start-column="28" selection-end-line="145" selection-end-column="28" />
-              <folding>
-                <element signature="e#0#14#0" expanded="true" />
-                <element signature="e#71#4176#0" expanded="false" />
-                <element signature="e#111#274#0" expanded="true" />
-                <element signature="e#312#413#0" expanded="true" />
-                <element signature="e#450#549#0" expanded="true" />
-                <element signature="e#610#763#0" expanded="true" />
-                <element signature="e#801#844#0" expanded="true" />
-                <element signature="e#883#975#0" expanded="true" />
-                <element signature="e#1022#1151#0" expanded="true" />
-                <element signature="e#1196#1408#0" expanded="true" />
-                <element signature="e#1476#1676#0" expanded="true" />
-                <element signature="e#1751#1914#0" expanded="true" />
-                <element signature="e#1983#3756#0" expanded="true" />
-                <element signature="e#3818#4007#0" expanded="true" />
-                <element signature="e#4070#4176#0" expanded="true" />
-                <element signature="e#4260#4357#0" expanded="true" />
-                <element signature="e#4291#4334#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="A.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../UnittestTest2/A.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="311">
-              <caret line="58" column="33" lean-forward="false" selection-start-line="58" selection-start-column="33" selection-end-line="58" selection-end-column="33" />
-              <folding>
-                <element signature="e#94#127#0" expanded="false" />
-                <element signature="e#998#1060#0" expanded="true" />
-                <element signature="e#1099#1189#0" expanded="true" />
-                <element signature="e#1264#1412#0" expanded="true" />
-                <element signature="e#1604#1648#0" expanded="true" />
-                <element signature="e#1688#1791#0" expanded="true" />
-                <element signature="e#1830#1954#0" expanded="true" />
-                <element signature="e#2005#2115#0" expanded="true" />
-                <element signature="e#2030#2096#0" expanded="true" />
-                <element signature="e#2052#2079#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="test_testVector.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test_testVector.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="560">
-              <caret line="35" column="14" lean-forward="false" selection-start-line="35" selection-start-column="14" selection-end-line="35" selection-end-column="14" />
-              <folding>
-                <element signature="e#0#29#0" expanded="true" />
-                <element signature="e#145#149#0" expanded="true" />
-                <element signature="e#188#1219#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -83,13 +21,23 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Tester.py" />
         <option value="$PROJECT_DIR$/dumps/teszt.json" />
         <option value="$PROJECT_DIR$/dumps/fixture.json" />
-        <option value="$PROJECT_DIR$/test_CClass.py" />
         <option value="$PROJECT_DIR$/2/test_tesztJSON.py" />
         <option value="$PROJECT_DIR$/dumps/teszt2.json" />
         <option value="$PROJECT_DIR$/dumps/tesztTeszt.json" />
@@ -97,9 +45,11 @@
         <option value="$PROJECT_DIR$/dumps/__init___test_001.json" />
         <option value="$PROJECT_DIR$/Unit.py" />
         <option value="$PROJECT_DIR$/2/test_testVector.py" />
-        <option value="$PROJECT_DIR$/test_tesztJSON.py" />
         <option value="$PROJECT_DIR$/../UnittestTest2/A.py" />
+        <option value="$PROJECT_DIR$/decTeszt.py" />
         <option value="$PROJECT_DIR$/test_testVector.py" />
+        <option value="$PROJECT_DIR$/test_CClass.py" />
+        <option value="$PROJECT_DIR$/test_tesztJSON.py" />
         <option value="$PROJECT_DIR$/DumpUnitTest.py" />
       </list>
     </option>
@@ -109,21 +59,13 @@
     <option name="width" value="1936" />
     <option name="height" value="1087" />
   </component>
+  <component name="ProjectId" id="27iSG0mUv20IJKv3l3ktGuJgQZP" />
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
-      <flattenPackages />
-      <showMembers />
-      <showModules />
-      <showLibraryContents />
-      <hideEmptyPackages />
-      <abbreviatePackageNames />
-      <autoscrollToSource />
-      <autoscrollFromSource />
-      <sortByType />
-      <manualOrder />
+    <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -135,6 +77,25 @@
               <item name="UnittestTest" type="b2602c69:ProjectViewProjectNode" />
               <item name="UnittestTest" type="47feb1d3:ProjectViewModuleNode" />
               <item name="UnittestTest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="UnittestTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="UnittestTest" type="47feb1d3:ProjectViewModuleNode" />
+              <item name="UnittestTest" type="462c0819:PsiDirectoryNode" />
+              <item name="testTests" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="UnittestTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="UnittestTest" type="47feb1d3:ProjectViewModuleNode" />
+              <item name="UnittestTest" type="462c0819:PsiDirectoryNode" />
+              <item name="Unit.py" type="8704e2dd:PyFileNode" />
+            </path>
+            <path>
+              <item name="UnittestTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="UnittestTest" type="47feb1d3:ProjectViewModuleNode" />
+              <item name="UnittestTest" type="462c0819:PsiDirectoryNode" />
+              <item name="Unit.py" type="8704e2dd:PyFileNode" />
+              <item name="DClass" type="dd8bbb05:PyElementNode" />
             </path>
             <path>
               <item name="UnittestTest" type="b2602c69:ProjectViewProjectNode" />
@@ -151,13 +112,16 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="editing.templates" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../UnittestTest2/A.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../getRGBs" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -167,20 +131,9 @@
       </console-settings>
     </option>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Python tests.Unittests in test_testVector.py">
+  <component name="RunManager" selected="Python.decteszt">
     <configuration name="A" type="PythonConfigurationType" factoryName="Python">
+      <module name="UnittestTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -191,13 +144,17 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="UnittestTest" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../UnittestTest2/A.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
     <configuration name="TestBuilder" type="PythonConfigurationType" factoryName="Python">
+      <module name="UnittestTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -208,13 +165,17 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="UnittestTest" />
       <option name="SCRIPT_NAME" value="C:\Users\samu\PycharmProjects\UnittestTest\DumpUnitTest.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
     <configuration name="Unit" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="UnittestTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -225,89 +186,115 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="UnittestTest" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Unit.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
-    <configuration name="Unittests for test_testVector.TestTestVector" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="decteszt" type="PythonConfigurationType" factoryName="Python">
+      <module name="UnittestTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Program Files\Python27\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/decTeszt.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test_testVector.TestTestVector" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="UnittestTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="UnittestTest" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
       <option name="_new_target" value="&quot;test_testVector.TestTestVector&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
     </configuration>
     <configuration name="Unittests for test_testVector.TestTestVector.test___init__" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="UnittestTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs />
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="UnittestTest" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
       <option name="_new_target" value="&quot;test_testVector.TestTestVector.test___init__&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
     </configuration>
     <configuration name="Unittests for test_tesztJSON.TestTesztJSON.test_removeJSONStructure" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="UnittestTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs />
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="UnittestTest" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
       <option name="_new_target" value="&quot;test_tesztJSON.TestTesztJSON.test_removeJSONStructure&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
     </configuration>
     <configuration name="Unittests in test_testVector.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="UnittestTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs />
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="UnittestTest" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
       <option name="_new_target" value="&quot;$PROJECT_DIR$/test_testVector.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
     </configuration>
-    <list size="7">
-      <item index="0" class="java.lang.String" itemvalue="Python.TestBuilder" />
-      <item index="1" class="java.lang.String" itemvalue="Python.A" />
-      <item index="2" class="java.lang.String" itemvalue="Python.Unit" />
-      <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests for test_tesztJSON.TestTesztJSON.test_removeJSONStructure" />
-      <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests for test_testVector.TestTestVector" />
-      <item index="5" class="java.lang.String" itemvalue="Python tests.Unittests for test_testVector.TestTestVector.test___init__" />
-      <item index="6" class="java.lang.String" itemvalue="Python tests.Unittests in test_testVector.py" />
+    <list>
+      <item itemvalue="Python.A" />
+      <item itemvalue="Python.TestBuilder" />
+      <item itemvalue="Python.decteszt" />
+      <item itemvalue="Python.Unit" />
+      <item itemvalue="Python tests.Unittests for test_testVector.TestTestVector" />
+      <item itemvalue="Python tests.Unittests for test_testVector.TestTestVector.test___init__" />
+      <item itemvalue="Python tests.Unittests for test_tesztJSON.TestTesztJSON.test_removeJSONStructure" />
+      <item itemvalue="Python tests.Unittests in test_testVector.py" />
     </list>
     <recent_temporary>
-      <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests in test_testVector.py" />
-        <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests for test_testVector.TestTestVector.test___init__" />
-        <item index="2" class="java.lang.String" itemvalue="Python.Unit" />
-        <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests for test_testVector.TestTestVector" />
-        <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests for test_tesztJSON.TestTesztJSON.test_removeJSONStructure" />
+      <list>
+        <item itemvalue="Python tests.Unittests in test_testVector.py" />
+        <item itemvalue="Python tests.Unittests for test_testVector.TestTestVector.test___init__" />
+        <item itemvalue="Python.Unit" />
+        <item itemvalue="Python tests.Unittests for test_testVector.TestTestVector" />
+        <item itemvalue="Python tests.Unittests for test_tesztJSON.TestTesztJSON.test_removeJSONStructure" />
       </list>
     </recent_temporary>
   </component>
-  <component name="ShelveChangesManager" show_recycled="false">
-    <option name="remove_strategy" value="false" />
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -320,9 +307,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unittests_for_test_testVector_TestTestVector_test___init__ - 2018.11.28 at 23h 53m 45s.xml">
-      <configuration name="Unittests for test_testVector.TestTestVector.test___init__" configurationId="tests" />
-    </history-entry>
     <history-entry file="Unittests_for_test_testVector_TestTestVector_test___init__ - 2018.11.28 at 23h 53m 54s.xml">
       <configuration name="Unittests for test_testVector.TestTestVector.test___init__" configurationId="tests" />
     </history-entry>
@@ -350,6 +334,9 @@
     <history-entry file="Unittests_in_test_testVector_py - 2018.11.28 at 23h 59m 19s.xml">
       <configuration name="Unittests in test_testVector.py" configurationId="tests" />
     </history-entry>
+    <history-entry file="Unittests_in_test_testVector_py - 2018.12.11 at 23h 13m 10s.xml">
+      <configuration name="Unittests in test_testVector.py" configurationId="tests" />
+    </history-entry>
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -364,28 +351,25 @@
     <frame x="-8" y="0" width="1936" height="1087" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295688" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295688" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3295688" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33264887" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295688" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.399384" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.184375" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24973656" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3295688" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3295688" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.399384" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3295688" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3295688" />
+      <window_info anchor="bottom" id="Python Console" order="9" weight="0.33264887" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Data View" order="3" visible="true" weight="0.184375" />
     </layout>
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -396,545 +380,155 @@
         </line-breakpoint>
         <line-breakpoint suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/../UnittestTest2/A.py</url>
-          <line>32</line>
+          <line>29</line>
           <option name="timeStamp" value="22" />
         </line-breakpoint>
       </breakpoints>
-      <breakpoints-dialog>
-        <breakpoints-dialog />
-      </breakpoints-dialog>
-      <option name="time" value="32" />
     </breakpoint-manager>
-    <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/DumpUnitTest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="18" lean-forward="true" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
-          <folding>
-            <element signature="e#0#14#0" expanded="true" />
-            <element signature="e#71#4176#0" expanded="false" />
-            <element signature="e#111#274#0" expanded="true" />
-            <element signature="e#312#413#0" expanded="true" />
-            <element signature="e#450#549#0" expanded="true" />
-            <element signature="e#610#763#0" expanded="true" />
-            <element signature="e#801#844#0" expanded="true" />
-            <element signature="e#883#975#0" expanded="true" />
-            <element signature="e#1022#1151#0" expanded="true" />
-            <element signature="e#1196#1408#0" expanded="true" />
-            <element signature="e#1476#1676#0" expanded="true" />
-            <element signature="e#1751#1914#0" expanded="true" />
-            <element signature="e#1983#3756#0" expanded="true" />
-            <element signature="e#3818#4007#0" expanded="true" />
-            <element signature="e#4070#4176#0" expanded="true" />
-            <element signature="e#4260#4357#0" expanded="true" />
-            <element signature="e#4291#4334#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dumps/teszt2.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dumps/teszt.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Unit.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="21" lean-forward="true" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
-          <folding>
-            <element signature="e#66#70#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_CClass.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="12" column="57" lean-forward="true" selection-start-line="12" selection-start-column="57" selection-end-line="12" selection-end-column="57" />
-          <folding>
-            <element signature="e#0#29#0" expanded="true" />
-            <element signature="e#105#241#0" expanded="true" />
-            <element signature="e#272#401#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../UnittestTest2/A.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="32" column="74" lean-forward="false" selection-start-line="32" selection-start-column="74" selection-end-line="32" selection-end-column="74" />
-          <folding>
-            <element signature="e#94#127#0" expanded="false" />
-            <element signature="e#998#1060#0" expanded="true" />
-            <element signature="e#1099#1189#0" expanded="true" />
-            <element signature="e#1264#1412#0" expanded="true" />
-            <element signature="e#1604#1648#0" expanded="true" />
-            <element signature="e#1688#1791#0" expanded="true" />
-            <element signature="e#1830#1954#0" expanded="true" />
-            <element signature="e#2005#2115#0" expanded="true" />
-            <element signature="e#2030#2096#0" expanded="true" />
-            <element signature="e#2052#2079#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DumpUnitTest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="44" lean-forward="false" selection-start-line="19" selection-start-column="44" selection-end-line="19" selection-end-column="44" />
-          <folding>
-            <element signature="e#0#14#0" expanded="true" />
-            <element signature="e#71#4176#0" expanded="false" />
-            <element signature="e#111#274#0" expanded="true" />
-            <element signature="e#312#413#0" expanded="true" />
-            <element signature="e#450#549#0" expanded="true" />
-            <element signature="e#610#763#0" expanded="true" />
-            <element signature="e#801#844#0" expanded="true" />
-            <element signature="e#883#975#0" expanded="true" />
-            <element signature="e#1022#1151#0" expanded="true" />
-            <element signature="e#1196#1408#0" expanded="true" />
-            <element signature="e#1476#1676#0" expanded="true" />
-            <element signature="e#1751#1914#0" expanded="true" />
-            <element signature="e#1983#3756#0" expanded="true" />
-            <element signature="e#3818#4007#0" expanded="true" />
-            <element signature="e#4070#4176#0" expanded="true" />
-            <element signature="e#4260#4357#0" expanded="true" />
-            <element signature="e#4291#4334#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../UnittestTest2/A.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="75" column="0" lean-forward="false" selection-start-line="75" selection-start-column="0" selection-end-line="75" selection-end-column="0" />
-          <folding>
-            <element signature="e#94#127#0" expanded="false" />
-            <element signature="e#998#1060#0" expanded="true" />
-            <element signature="e#1099#1189#0" expanded="true" />
-            <element signature="e#1264#1412#0" expanded="true" />
-            <element signature="e#1604#1648#0" expanded="true" />
-            <element signature="e#1688#1791#0" expanded="true" />
-            <element signature="e#1830#1954#0" expanded="true" />
-            <element signature="e#2005#2115#0" expanded="true" />
-            <element signature="e#2030#2096#0" expanded="true" />
-            <element signature="e#2052#2079#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Unit.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#66#70#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_CClass.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="12" column="30" lean-forward="false" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
-          <folding>
-            <element signature="e#0#29#0" expanded="true" />
-            <element signature="e#105#241#0" expanded="true" />
-            <element signature="e#272#401#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DumpUnitTest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="19" column="44" lean-forward="false" selection-start-line="19" selection-start-column="44" selection-end-line="19" selection-end-column="44" />
-          <folding>
-            <element signature="e#0#14#0" expanded="true" />
-            <element signature="e#71#4176#0" expanded="false" />
-            <element signature="e#111#274#0" expanded="true" />
-            <element signature="e#312#413#0" expanded="true" />
-            <element signature="e#450#549#0" expanded="true" />
-            <element signature="e#610#763#0" expanded="true" />
-            <element signature="e#801#844#0" expanded="true" />
-            <element signature="e#883#975#0" expanded="true" />
-            <element signature="e#1022#1151#0" expanded="true" />
-            <element signature="e#1196#1408#0" expanded="true" />
-            <element signature="e#1476#1676#0" expanded="true" />
-            <element signature="e#1751#1914#0" expanded="true" />
-            <element signature="e#1983#3756#0" expanded="true" />
-            <element signature="e#3818#4007#0" expanded="true" />
-            <element signature="e#4070#4176#0" expanded="true" />
-            <element signature="e#4260#4357#0" expanded="true" />
-            <element signature="e#4291#4334#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Unit.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#66#70#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../UnittestTest2/A.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1275">
-          <caret line="75" column="0" lean-forward="false" selection-start-line="75" selection-start-column="0" selection-end-line="75" selection-end-column="0" />
-          <folding>
-            <element signature="e#94#127#0" expanded="false" />
-            <element signature="e#998#1060#0" expanded="true" />
-            <element signature="e#1099#1189#0" expanded="true" />
-            <element signature="e#1264#1412#0" expanded="true" />
-            <element signature="e#1604#1648#0" expanded="true" />
-            <element signature="e#1688#1791#0" expanded="true" />
-            <element signature="e#1830#1954#0" expanded="true" />
-            <element signature="e#2005#2115#0" expanded="true" />
-            <element signature="e#2030#2096#0" expanded="true" />
-            <element signature="e#2052#2079#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_CClass.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="12" column="30" lean-forward="false" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
-          <folding>
-            <element signature="e#0#29#0" expanded="true" />
-            <element signature="e#105#241#0" expanded="true" />
-            <element signature="e#272#401#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DumpUnitTest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="19" column="44" lean-forward="false" selection-start-line="19" selection-start-column="44" selection-end-line="19" selection-end-column="44" />
-          <folding>
-            <element signature="e#0#14#0" expanded="true" />
-            <element signature="e#71#4176#0" expanded="false" />
-            <element signature="e#111#274#0" expanded="true" />
-            <element signature="e#312#413#0" expanded="true" />
-            <element signature="e#450#549#0" expanded="true" />
-            <element signature="e#610#763#0" expanded="true" />
-            <element signature="e#801#844#0" expanded="true" />
-            <element signature="e#883#975#0" expanded="true" />
-            <element signature="e#1022#1151#0" expanded="true" />
-            <element signature="e#1196#1408#0" expanded="true" />
-            <element signature="e#1476#1676#0" expanded="true" />
-            <element signature="e#1751#1914#0" expanded="true" />
-            <element signature="e#1983#3756#0" expanded="true" />
-            <element signature="e#3818#4007#0" expanded="true" />
-            <element signature="e#4070#4176#0" expanded="true" />
-            <element signature="e#4260#4357#0" expanded="true" />
-            <element signature="e#4291#4334#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../UnittestTest2/A.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1275">
-          <caret line="75" column="0" lean-forward="true" selection-start-line="75" selection-start-column="0" selection-end-line="75" selection-end-column="0" />
-          <folding>
-            <element signature="e#94#127#0" expanded="false" />
-            <element signature="e#998#1060#0" expanded="true" />
-            <element signature="e#1099#1189#0" expanded="true" />
-            <element signature="e#1264#1412#0" expanded="true" />
-            <element signature="e#1604#1648#0" expanded="true" />
-            <element signature="e#1688#1791#0" expanded="true" />
-            <element signature="e#1830#1954#0" expanded="true" />
-            <element signature="e#2005#2115#0" expanded="true" />
-            <element signature="e#2030#2096#0" expanded="true" />
-            <element signature="e#2052#2079#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Unit.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#66#70#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_CClass.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="12" column="14" lean-forward="false" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
-          <folding>
-            <element signature="e#0#29#0" expanded="true" />
-            <element signature="e#105#241#0" expanded="true" />
-            <element signature="e#272#401#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DumpUnitTest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#14#0" expanded="true" />
-            <element signature="e#71#4176#0" expanded="false" />
-            <element signature="e#111#274#0" expanded="true" />
-            <element signature="e#312#413#0" expanded="true" />
-            <element signature="e#450#549#0" expanded="true" />
-            <element signature="e#610#763#0" expanded="true" />
-            <element signature="e#801#844#0" expanded="true" />
-            <element signature="e#883#975#0" expanded="true" />
-            <element signature="e#1022#1151#0" expanded="true" />
-            <element signature="e#1196#1408#0" expanded="true" />
-            <element signature="e#1476#1676#0" expanded="true" />
-            <element signature="e#1751#1914#0" expanded="true" />
-            <element signature="e#1983#3756#0" expanded="true" />
-            <element signature="e#3818#4007#0" expanded="true" />
-            <element signature="e#4070#4176#0" expanded="true" />
-            <element signature="e#4260#4357#0" expanded="true" />
-            <element signature="e#4291#4334#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../UnittestTest2/A.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="52" column="34" lean-forward="true" selection-start-line="52" selection-start-column="34" selection-end-line="52" selection-end-column="34" />
-          <folding>
-            <element signature="e#94#127#0" expanded="false" />
-            <element signature="e#998#1060#0" expanded="true" />
-            <element signature="e#1099#1189#0" expanded="true" />
-            <element signature="e#1264#1412#0" expanded="true" />
-            <element signature="e#1604#1648#0" expanded="true" />
-            <element signature="e#1688#1791#0" expanded="true" />
-            <element signature="e#1830#1954#0" expanded="true" />
-            <element signature="e#2005#2115#0" expanded="true" />
-            <element signature="e#2030#2096#0" expanded="true" />
-            <element signature="e#2052#2079#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Unit.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding>
-            <element signature="e#66#70#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_CClass.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#29#0" expanded="true" />
-            <element signature="e#105#241#0" expanded="true" />
-            <element signature="e#272#401#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Unit.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#66#70#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/Program Files/Python27/Lib/pickle.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5627">
-          <caret line="331" column="0" lean-forward="true" selection-start-line="331" selection-start-column="0" selection-end-line="331" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DumpUnitTest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="4" column="12" lean-forward="false" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
-          <folding>
-            <element signature="e#0#14#0" expanded="true" />
-            <element signature="e#71#4176#0" expanded="false" />
-            <element signature="e#111#274#0" expanded="true" />
-            <element signature="e#312#413#0" expanded="true" />
-            <element signature="e#450#549#0" expanded="true" />
-            <element signature="e#610#763#0" expanded="true" />
-            <element signature="e#801#844#0" expanded="true" />
-            <element signature="e#883#975#0" expanded="true" />
-            <element signature="e#1022#1151#0" expanded="true" />
-            <element signature="e#1196#1408#0" expanded="true" />
-            <element signature="e#1476#1676#0" expanded="true" />
-            <element signature="e#1751#1914#0" expanded="true" />
-            <element signature="e#1983#3756#0" expanded="true" />
-            <element signature="e#3818#4007#0" expanded="true" />
-            <element signature="e#4070#4176#0" expanded="true" />
-            <element signature="e#4260#4357#0" expanded="true" />
-            <element signature="e#4291#4334#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/Program Files/GIMP 2/Python/Lib/pickle.py" />
-    <entry file="file://C:/Program Files/GIMP 2/Python/Lib/site.py" />
-    <entry file="file://C:/Program Files/Python27/Lib/pickle.py">
+    <entry file="file://$PROJECT_DIR$/../../../../Program Files/GIMP 2/Python/Lib/pickle.py" />
+    <entry file="file://$PROJECT_DIR$/../../../../Program Files/GIMP 2/Python/Lib/site.py" />
+    <entry file="file://$PROJECT_DIR$/../../../../Program Files/Python27/Lib/pickle.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="443">
-          <caret line="224" column="0" lean-forward="false" selection-start-line="224" selection-start-column="0" selection-end-line="224" selection-end-column="0" />
+          <caret line="224" selection-start-line="224" selection-end-line="224" />
         </state>
       </provider>
     </entry>
-    <entry file="file://C:/Program Files/Python27/Lib/json/__init__.py">
+    <entry file="file://$PROJECT_DIR$/../../../../Program Files/Python27/Lib/json/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="243">
-          <caret line="246" column="12" lean-forward="false" selection-start-line="246" selection-start-column="12" selection-end-line="246" selection-end-column="12" />
+          <caret line="246" column="12" selection-start-line="246" selection-start-column="12" selection-end-line="246" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/.PyCharmCE2017.2/system/python_stubs/-697680286/__builtin__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="107">
-          <caret line="3916" column="8" lean-forward="false" selection-start-line="3916" selection-start-column="8" selection-end-line="3916" selection-end-column="8" />
-          <folding>
-            <element signature="e#133589#134619#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2017.2/system/python_stubs/-697680286/__builtin__.py" />
     <entry file="file://$PROJECT_DIR$/dumps/teszt.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/2/test_tesztJSON.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="34" lean-forward="true" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/Program Files/Python27/Lib/unittest/suite.py">
+    <entry file="file://$PROJECT_DIR$/2/test_tesztJSON.py" />
+    <entry file="file://$PROJECT_DIR$/../../../../Program Files/Python27/Lib/unittest/suite.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-18">
-          <caret line="69" column="0" lean-forward="false" selection-start-line="69" selection-start-column="0" selection-end-line="69" selection-end-column="0" />
-          <folding>
-            <element signature="e#2579#3518#0" expanded="false" />
-          </folding>
+          <caret line="69" selection-start-line="69" selection-end-line="69" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test_CClass.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#29#0" expanded="true" />
-            <element signature="e#105#241#0" expanded="true" />
-            <element signature="e#272#401#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/Program Files/Python27/Lib/unittest/case.py">
+    <entry file="file://$PROJECT_DIR$/../../../../Program Files/Python27/Lib/unittest/case.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1257">
-          <caret line="331" column="0" lean-forward="false" selection-start-line="331" selection-start-column="0" selection-end-line="331" selection-end-column="0" />
-          <folding>
-            <element signature="e#13446#13476#0" expanded="true" />
-            <element signature="e#17904#18178#0" expanded="true" />
-          </folding>
+          <caret line="331" selection-start-line="331" selection-end-line="331" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/dumps/teszt2.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/dumps/fixture.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
-          <caret line="4" column="8" lean-forward="false" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
-          <folding />
+          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/dumps/__init___test_001.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="281" />
-          <folding />
+        <state>
+          <caret selection-end-column="281" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/dumps/tesztTeszt.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
-          <caret line="72" column="4" lean-forward="false" selection-start-line="72" selection-start-column="4" selection-end-line="72" selection-end-column="4" />
+          <caret line="72" column="4" selection-start-line="72" selection-start-column="4" selection-end-line="72" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/2/test_testVector.py" />
+    <entry file="file://$PROJECT_DIR$/../UnittestTest2/A.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="55" column="12" selection-start-line="55" selection-start-column="12" selection-end-line="55" selection-end-column="12" />
           <folding>
-            <element signature="e#33#142#0" expanded="false" />
-            <element signature="e#148#1363#0" expanded="false" />
-            <element signature="e#1369#1454#0" expanded="false" />
-            <element signature="e#1460#3429#0" expanded="false" />
-            <element signature="e#2895#3127#0" expanded="false" />
+            <element signature="e#94#127#0" />
+            <element signature="e#995#1057#0" expanded="true" />
+            <element signature="e#1096#1186#0" expanded="true" />
+            <element signature="e#1261#1417#0" expanded="true" />
+            <element signature="e#1609#1653#0" expanded="true" />
+            <element signature="e#1693#1796#0" expanded="true" />
+            <element signature="e#1835#1959#0" expanded="true" />
+            <element signature="e#2010#2120#0" expanded="true" />
+            <element signature="e#2035#2101#0" expanded="true" />
+            <element signature="e#2057#2084#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2/__init__.py">
+    <entry file="file://$PROJECT_DIR$/DumpUnitTest.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="153">
+          <caret line="9" column="47" selection-start-line="9" selection-start-column="47" selection-end-line="9" selection-end-column="47" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+            <element signature="e#610#763#0" expanded="true" />
+            <element signature="e#801#844#0" expanded="true" />
+            <element signature="e#883#975#0" expanded="true" />
+            <element signature="e#1022#1151#0" expanded="true" />
+            <element signature="e#1476#1676#0" expanded="true" />
+            <element signature="e#1751#1914#0" expanded="true" />
+            <element signature="e#1983#3756#0" expanded="true" />
+            <element signature="e#3818#4007#0" expanded="true" />
+            <element signature="e#4226#4372#0" expanded="true" />
+            <element signature="e#4260#4357#0" expanded="true" />
+            <element signature="e#4291#4334#0" expanded="true" />
+            <element signature="e#4640#5502#0" expanded="true" />
+            <element signature="e#4678#5482#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2/test_testVector.py">
+    <entry file="file://$PROJECT_DIR$/test_CClass.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="17">
+          <caret line="1" column="17" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+            <element signature="e#105#241#0" expanded="true" />
+            <element signature="e#272#401#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_testVector.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="30" column="30" selection-start-line="30" selection-start-column="30" selection-end-line="30" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/decTeszt.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+          <folding>
+            <element signature="e#23#165#0" expanded="true" />
+            <element signature="e#41#152#0" expanded="true" />
+            <element signature="e#77#135#0" expanded="true" />
+            <element signature="e#214#280#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Unit.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        <state relative-caret-position="102">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
           <folding>
             <element signature="e#66#70#0" expanded="true" />
           </folding>
@@ -943,69 +537,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test_tesztJSON.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="492">
-          <caret line="39" column="54" lean-forward="false" selection-start-line="39" selection-start-column="54" selection-end-line="39" selection-end-column="54" />
+        <state relative-caret-position="119">
+          <caret line="22" column="58" selection-start-line="22" selection-start-column="58" selection-end-line="22" selection-end-column="58" />
           <folding>
-            <element signature="e#0#29#0" expanded="true" />
-            <element signature="e#514#736#0" expanded="true" />
-            <element signature="e#823#1012#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_testVector.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="560">
-          <caret line="35" column="14" lean-forward="false" selection-start-line="35" selection-start-column="14" selection-end-line="35" selection-end-column="14" />
-          <folding>
-            <element signature="e#0#29#0" expanded="true" />
-            <element signature="e#145#149#0" expanded="true" />
-            <element signature="e#188#1219#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DumpUnitTest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="145" column="28" lean-forward="false" selection-start-line="145" selection-start-column="28" selection-end-line="145" selection-end-column="28" />
-          <folding>
-            <element signature="e#0#14#0" expanded="true" />
-            <element signature="e#71#4176#0" expanded="false" />
-            <element signature="e#111#274#0" expanded="true" />
-            <element signature="e#312#413#0" expanded="true" />
-            <element signature="e#450#549#0" expanded="true" />
-            <element signature="e#610#763#0" expanded="true" />
-            <element signature="e#801#844#0" expanded="true" />
-            <element signature="e#883#975#0" expanded="true" />
-            <element signature="e#1022#1151#0" expanded="true" />
-            <element signature="e#1196#1408#0" expanded="true" />
-            <element signature="e#1476#1676#0" expanded="true" />
-            <element signature="e#1751#1914#0" expanded="true" />
-            <element signature="e#1983#3756#0" expanded="true" />
-            <element signature="e#3818#4007#0" expanded="true" />
-            <element signature="e#4070#4176#0" expanded="true" />
-            <element signature="e#4260#4357#0" expanded="true" />
-            <element signature="e#4291#4334#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../UnittestTest2/A.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="311">
-          <caret line="58" column="33" lean-forward="false" selection-start-line="58" selection-start-column="33" selection-end-line="58" selection-end-column="33" />
-          <folding>
-            <element signature="e#94#127#0" expanded="false" />
-            <element signature="e#998#1060#0" expanded="true" />
-            <element signature="e#1099#1189#0" expanded="true" />
-            <element signature="e#1264#1412#0" expanded="true" />
-            <element signature="e#1604#1648#0" expanded="true" />
-            <element signature="e#1688#1791#0" expanded="true" />
-            <element signature="e#1830#1954#0" expanded="true" />
-            <element signature="e#2005#2115#0" expanded="true" />
-            <element signature="e#2030#2096#0" expanded="true" />
-            <element signature="e#2052#2079#0" expanded="true" />
+            <element signature="e#0#40#0" expanded="true" />
+            <element signature="e#165#531#0" expanded="true" />
+            <element signature="e#618#782#0" expanded="true" />
+            <element signature="e#865#1580#0" expanded="true" />
+            <element signature="e#894#1509#0" expanded="true" />
+            <element signature="e#2326#2515#0" expanded="true" />
           </folding>
         </state>
       </provider>
